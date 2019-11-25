@@ -13,7 +13,7 @@
 
 ## Render Machines
 
-### SuperMicro Build
+### SuperMicro Intel Build
 
 - In the works Via PBTech this week
 
