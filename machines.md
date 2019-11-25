@@ -15,7 +15,7 @@
 
 ### Asrock Rack AMD Build
 
-- This has 2 GPUs right now, but can be expanded to 3 GPUs with a 32 Threaded CPU
+- This has 2 GPUs right now, but can be expanded to 3 GPUs with a 32 Core CPU (AMD YD299XAZAFWOF Ryzen Threadripper 2990WX Processor) could be a suitable candidate, unless we go with the Epyc series.
 - Twice the ram the capture machines have
 - A very large PSU to handle 3 GPUs and a higher specced CPU than a capture machine
 - Less storage since it does hold complete captures
