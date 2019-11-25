@@ -13,6 +13,10 @@
 
 ## Render Machines
 
+### SuperMicro Build
+
+- In the works Via PBTech this week
+
 ### Asrock Rack AMD Build
 
 - This has 2 GPUs right now, but can be expanded to 3 GPUs with a 24 Core CPU (AMD Ryzen Threadripper 2970WX (24-Core/48-Thread) Processor 4.2 GHz Max Boost 76MB Cache (YD297XAZAFWOF)) could be a suitable candidate, unless we go with the Epyc series.
