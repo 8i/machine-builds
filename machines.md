@@ -39,7 +39,7 @@
 | Asrock Rack AMD Build | Drive Storage | 500GB NVME                                                 | 1 |
 | Asrock Rack AMD Build | Cool CPU      | Noctua 4U compliant cooler for TR4                         | 1 |
 | Asrock Rack AMD Build | Capture       | Frame Grabber Bitflow Cyton                                | 0 |
-| Asrock Rack AMD Build | Capture       | USB Flir 4X                                                | 0 |
+| Asrock Rack AMD Build | Capture       | USB Flir 4X Host Controller                                | 0 |
 | Asrock Rack AMD Build | Labor         | Assembly & Test                                            | 1 |
 
 ## Capture Machines
