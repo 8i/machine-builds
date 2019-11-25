@@ -31,7 +31,7 @@
 | Asrock Rack AMD Build | Mother        | X399D8A-2T (Chipset: AMD X399/TR4 409P)                    | 1 |
 | Asrock Rack AMD Build | CPU           | AMD Ryzen Threadripper 2950X Processor (YD295XA8AFWOF)     | 1 |
 | Asrock Rack AMD Build | Ram           | 128GB, DDR4 UDIMM DDR4 ECC and non-ECC, Un-buffered Memory | 8 |
-| Asrock Rack AMD Build | GPU           | NVIDIA RTX 2080Ti - **Change to 32 thread CPU w/ 3GPU**    | 2 |
+| Asrock Rack AMD Build | GPU           | NVIDIA RTX 2080Ti - **Change to 48 thread CPU w/ 3GPU**    | 2 |
 | Asrock Rack AMD Build | NIC           | 10G RJ-45 Builtin                                          | 2 |
 | Asrock Rack AMD Build | PSU           | EVGA 1600G2 GOLD                                           | 1 |
 | Asrock Rack AMD Build | Misc          | HDMI Display Port Emulator Plugs                           | 1 |
